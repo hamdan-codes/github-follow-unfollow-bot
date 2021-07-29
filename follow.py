@@ -53,7 +53,7 @@ users  =  ["jashkenas", "ruanyf", "substack", "kennethreitz", "jlord", "daimajia
            "josevalim", "charliesome", "CoderMJLee", "ry", "antirez", "muan", "isaacs", "angusshire",
            "hadley", "hakimel", "yyx990803", "fat", "fabpot", "ibireme", "tekkub", "BYVoid", "laruence", 
            "onevcat", "tpope", "mrdoob", "LeaVerou", "chrisbanes", "wycats", "lifesinger", "cloudwu", 
-           "mitsuhiko", "michaelliao", "ryanb", "clowwindy", "JacksonTian", "yinwang0", "Trinea",
+           "mitsuhiko", "michaelliao", "ryanb", "clowwindy", "JacksonTian", "yinwang0", "Trinea" , "anannya2020",
            "pjhyett", "dhh", "gaearon"]
 
 # Iterating over all the usernames
